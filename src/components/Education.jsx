@@ -44,10 +44,10 @@ const Education = () => {
               <div className="bg-amber-50 w-full h-0.25" />
               <div className="flex flex-col gap-2 mt-2 ">
                 <div className="bg-black text-white text-center rounded-2xl p-2">
-                  A/L -> Mathematics A | Physics B | Chemistry B
+                  A/L : Mathematics A | Physics B | Chemistry B
                 </div>
                 <div className="bg-black text-white text-center rounded-2xl p-2">
-                  O/L -> District First ( Result - 9A )
+                  O/L : District First ( Result - 9A )
                 </div>
                 <div className="bg-black text-white text-center rounded-2xl p-2">
                   Senior Prefect of the school
