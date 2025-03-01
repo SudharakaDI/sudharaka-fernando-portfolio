@@ -20,7 +20,7 @@ const projectDetails = [
       "Material UI",
     ],
     imageDetails: {
-      src: "/src/assets/mushroom.jpg",
+      src: "/mushroom.jpg",
       alt: "mushroom image",
     },
   },
