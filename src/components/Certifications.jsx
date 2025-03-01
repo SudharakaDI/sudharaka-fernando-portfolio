@@ -6,7 +6,7 @@ const certificationDetails = [
     name: "AWS Educate Introduction to Cloud 101",
     platform: "AWS Educate",
     imageDetails: {
-      src: "/src/assets/aws-educate-badge.png",
+      src: "/aws-educate-badge.png",
       alt: "AWS",
     },
   },
@@ -15,7 +15,7 @@ const certificationDetails = [
     name: " Software Architecture Foundations",
     platform: "Linkedin Learn",
     imageDetails: {
-      src: "/src/assets/architecture-certificate.png",
+      src: "/architecture-certificate.png",
       alt: "software architecture",
     },
   },
@@ -24,7 +24,7 @@ const certificationDetails = [
     name: "Learning Docker",
     platform: "Linkedin Learn",
     imageDetails: {
-      src: "/src/assets/docker-certificate.png",
+      src: "/docker-certificate.png",
       alt: "AWS",
     },
   },

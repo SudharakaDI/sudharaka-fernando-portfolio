@@ -43,7 +43,7 @@ const projectDetails = [
       "Microservices",
     ],
     imageDetails: {
-      src: "/src/assets/AeroExpress.png",
+      src: "/AeroExpress.png",
       alt: "aeroExpress",
     },
   },
@@ -63,7 +63,7 @@ const projectDetails = [
       "Tkinter",
     ],
     imageDetails: {
-      src: "/src/assets/Visualink.png",
+      src: "/Visualink.png",
       alt: "visualink image",
     },
   },
@@ -76,7 +76,7 @@ const projectDetails = [
       " weather map which summarizes the weather news and AI generated video according to the weather news.",
     techStack: ["Dart", "Flutter", "Firebase", "SQLite"],
     imageDetails: {
-      src: "/src/assets/elcare.jpg",
+      src: "/elcare.jpg",
       alt: "elcare image",
     },
   },
