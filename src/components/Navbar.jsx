@@ -4,7 +4,7 @@ import logo from "../assets/sudharaka-logo.png";
 const Navbar = () => {
   return (
     <nav className="flex justify-between items-center py-6 px-8">
-      <div className="w-30 font-bold">
+      <div className="w-30 font-bold invisible">
         <img src={logo} alt="Logo" />
       </div>
 

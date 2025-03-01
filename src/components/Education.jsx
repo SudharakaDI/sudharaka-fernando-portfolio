@@ -8,9 +8,9 @@ const Education = () => {
         {EDUCATION.map((education, index) => (
           <div
             key={index}
-            className="grid xl:flex mb-8 justify-center items-center gap-2 mb-6 lg:gap-6"
+            className="flex flex-col mb-8 justify-center items-center gap-2 mb-6 xl:flex-row lg:gap-6"
           >
-            <div className="w-120 h-80 p-6 bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700">
+            <div className="w-90 h-100 p-6 bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700 md:w-120 md:h-80">
               <h5 className="mb-2 text-center text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                 B. Sc. Eng (Hons) in Computer Engineering
               </h5>
@@ -32,7 +32,7 @@ const Education = () => {
               </div>
             </div>
 
-            <div className="w-120 h-80 p-6 bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700">
+            <div className="w-90 h-100 p-6 bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700 md:w-120 md:h-80">
               <h5 className="mb-2 text-center text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                 G.C.E.(A/L & O/L)
               </h5>

@@ -4,7 +4,7 @@ import { useState } from "react";
 const ProjectCard = ({ name, description, techStack, imageDetails }) => {
   const [showMore, setShowMore] = useState(false);
   return (
-    <div className="max-w-md h-150 bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700">
+    <div className="max-w-md h-180 bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700 lg:h-150">
       <a href="#">
         <img
           className="rounded-t-lg h-2/5 w-full"
